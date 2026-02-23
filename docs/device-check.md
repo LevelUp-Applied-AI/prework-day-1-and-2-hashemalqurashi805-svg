@@ -34,8 +34,10 @@
 ] Screenshot: Admin rights confirmed
 
 **Windows only:**
-- [ ] Screenshot: `wsl -l -v` output showing WSL 2
-- [ ] Screenshot: `wsl --status` output
+- [<img width="938" height="242" alt="لقطة الشاشة 2026-02-23 145529" src="https://github.com/user-attachments/assets/d808ce88-83fa-4ab0-b1e5-2fbcc3bf270d" />
+ ] Screenshot: `wsl -l -v` output showing WSL 2
+- [ <img width="946" height="452" alt="لقطة الشاشة 2026-02-23 145601" src="https://github.com/user-attachments/assets/877d7331-d809-4d67-8ae8-2bb1e5e7fc58" />
+] Screenshot: `wsl --status` output
 
 ---
 
